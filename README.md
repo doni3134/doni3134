@@ -4,23 +4,12 @@
   <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="200"/>
 </div>
 
-<div align="center">
-  <a href="https://moonpower.github.io/"><img src="https://img.shields.io/badge/-moonpower.github.io-brightgreen?style=for-the-badge"/></a>
-</div>
-
-<div id="badges" align="center">
-  <img src="https://komarev.com/ghpvc/?username=moonpower&style=flat-square&color=blue" alt=""/>
-</div>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
 ---
 
 ### 👨‍💻 About Me:
 
-- 2012년부터 본격적으로 개발을 시작하여 Java부터 Javascript를 사용했습니다.
-- React, Electron에 관심을 갖고 공부 중입니다.
+- 2023년부터 본격적으로 개발을 시작하여 Html Java JavaScript 를 사용했습니다.
+- Java에 관심을 갖고 공부 중입니다.
 
 ---
 
