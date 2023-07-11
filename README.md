@@ -27,10 +27,14 @@
 
 
 ![spring](https://img.shields.io/badge/Sprring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>
+
 
 ![eclipse](https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat-square&logo=Eclipse%20IDE&logoColor=white)
 ![visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
 ![intellijidea](https://img.shields.io/badge/intellijidea-000000?style=flat-square&logo=intellijidea%20Studio%20Code&logoColor=white)
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+
 
 
 ![tomcat](https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=flat-square&logo=Apache%20Tomcat&logoColor=white)
